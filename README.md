@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-This account is linked to https://github.com/Prafful-Vyas
-
 <!--
 **pvyas-ebizneeds/pvyas-ebizneeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
